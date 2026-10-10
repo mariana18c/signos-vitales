@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+# Ejecutables de C++
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos temporales de VS Code / Code Runner
+tempCodeRunnerFile*
+
+# Configuración local del editor (opcional pero recomendado)
+.vscode/
+=======
 # Prerequisites
 *.d
 
@@ -30,3 +43,4 @@
 *.exe
 *.out
 *.app
+>>>>>>> 6679454971ca31bcc6493e5f7197bbdbfbb1002f
