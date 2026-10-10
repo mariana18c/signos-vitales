@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ejecutables de C++
 *.exe
 *.out
@@ -9,3 +10,37 @@ tempCodeRunnerFile*
 
 # Configuración local del editor (opcional pero recomendado)
 .vscode/
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 6679454971ca31bcc6493e5f7197bbdbfbb1002f
