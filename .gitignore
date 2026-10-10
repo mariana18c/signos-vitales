@@ -1,0 +1,11 @@
+# Ejecutables de C++
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos temporales de VS Code / Code Runner
+tempCodeRunnerFile*
+
+# Configuración local del editor (opcional pero recomendado)
+.vscode/
